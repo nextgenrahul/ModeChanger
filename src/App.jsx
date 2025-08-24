@@ -1,9 +1,8 @@
-import React from 'react'
-
+import DarkMode from './DarkLight'
 const App = () => {
   return (
     <div>
-      
+      <DarkMode />
     </div>
   )
 }
